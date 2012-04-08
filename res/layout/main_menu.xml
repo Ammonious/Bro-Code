@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+ 
+ 
+ <ScrollView 
+     xmlns:android="http://schemas.android.com/apk/res/android"
+  	android:layout_width="fill_parent"
+  	android:layout_height="fill_parent">
+  	
+  <LinearLayout
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      android:id="@+id/linearLayout1"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:background="@drawable/background"
+      android:orientation="vertical"
+      android:scrollbarFadeDuration="0"
+      android:scrollbarSize="25dip"
+      android:scrollbarStyle="insideOverlay"
+      android:scrollbars="vertical" >
+      
+      
+
+      
+
+      <TextView
+          android:id="@+id/textView1"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article1"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView2"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article2"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView3"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article3"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView4"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article4"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView5"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article5"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView6"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article6"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView7"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article7"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView8"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article8"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView9"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article9"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView10"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article10"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView11"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article11"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView12"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article12"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView13"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article13"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView14"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article14"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView15"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article15"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView16"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article16"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView17"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article17"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView18"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article18"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView19"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article19"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView20"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article20"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView21"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article21"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView22"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article22"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView23"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article23"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView24"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article24"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView25"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article25"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView26"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article26"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView27"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article27"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView28"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article28"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+
+      <TextView
+          android:id="@+id/textView29"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:alpha="1"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article29"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+
+      <View
+          android:layout_width="fill_parent"
+          android:layout_height="1dp"
+          android:background="#7b787d" />
+      <TextView
+          android:id="@+id/textView30"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:cursorVisible="true"
+          android:drawableLeft="@drawable/thebrocode"
+          android:drawablePadding="28dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:lines="2"
+          android:paddingRight="60dp"
+          android:text="@string/article30"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="#000000" />
+       <android.support.v4.view.ViewPager
+        android:layout_width="fill_parent" 
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/viewPager"
+        >
+        
+        </android.support.v4.view.ViewPager>
+  </LinearLayout>
+    
+ </ScrollView>
+    
+   
+ 
+    
